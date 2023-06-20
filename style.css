@@ -5,3 +5,18 @@
 html {
   font-size: 10px;
 }
+
+body {
+  margin: 20px;
+  width: 100vh;
+  min-height: 100vh;
+  background: radial-gradient(#968282,#805151);
+  display:flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.grid{
+  background-color: lightgoldenrodyellow;
+  
+}
